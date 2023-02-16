@@ -1,8 +1,9 @@
 # 说明
-> 本项目是基于hexo搭建的个人博客，主要用于记录学习笔记和生活感悟，欢迎大家访问。
-- 主页 www.tingfeng.cc
-- 博客 blog.tingfeng.cc
-- 网盘 pan.tingfeng.cc
+> 本项目是基于hexo搭建的个人博客，主要用于记录学习笔记和游戏开发，欢迎大家访问。
+- 主页 https://www.tingfeng.cc
+- 博客 http://blog.tingfeng.cc
+- 网盘 http://pan.tingfeng.cc
+- qq: 470808874
 
 --- 
 
