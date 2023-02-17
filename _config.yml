@@ -97,7 +97,8 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+#theme: landscape # 默认主题
+theme: butterfly # https://butterfly.js.org/ # 根目录下创建了_config.butterfly.yml 文件，对应themes下的 _config.yml失效
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
